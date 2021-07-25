@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/json-to-envvar/static/css/main.a617e044.chunk.css",
+    "main.js": "/json-to-envvar/static/js/main.09a046bd.chunk.js",
+    "main.js.map": "/json-to-envvar/static/js/main.09a046bd.chunk.js.map",
+    "runtime-main.js": "/json-to-envvar/static/js/runtime-main.2d4ded82.js",
+    "runtime-main.js.map": "/json-to-envvar/static/js/runtime-main.2d4ded82.js.map",
+    "static/js/2.e5114f70.chunk.js": "/json-to-envvar/static/js/2.e5114f70.chunk.js",
+    "static/js/2.e5114f70.chunk.js.map": "/json-to-envvar/static/js/2.e5114f70.chunk.js.map",
+    "static/js/3.4e1018a2.chunk.js": "/json-to-envvar/static/js/3.4e1018a2.chunk.js",
+    "static/js/3.4e1018a2.chunk.js.map": "/json-to-envvar/static/js/3.4e1018a2.chunk.js.map",
+    "index.html": "/json-to-envvar/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/json-to-envvar/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e5114f70.chunk.js.LICENSE.txt": "/json-to-envvar/static/js/2.e5114f70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d4ded82.js",
+    "static/js/2.e5114f70.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.09a046bd.chunk.js"
+  ]
+}
